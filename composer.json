@@ -14,6 +14,7 @@
       ["app/code/community/Magebees/Responsivebannerslider/", "app/code/community/Magebees/Responsivebannerslider/"],
 
       ["app/design/adminhtml/default/default/layout/responsivebannerslider.xml", "app/design/adminhtml/default/default/layout/responsivebannerslider.xml"],
+      ["app/design/adminhtml/default/default/template/responsivebannerslider/", "app/design/adminhtml/default/default/template/responsivebannerslider/"],
 
       ["app/design/frontend/base/default/layout/responsivebannerslider.xml", "app/design/frontend/base/default/layout/responsivebannerslider.xml"],
       ["app/design/frontend/base/default/template/responsivebannerslider/slider.phtml", "app/design/frontend/base/default/template/responsivebannerslider/slider.phtml"],
